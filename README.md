@@ -1,4 +1,4 @@
-# Movie Collection App
+# Movie Collection API Project
 
 ## Introduction
 Welcome to the Movie Collection App! This Django-based web application allows users to create and manage collections of their favorite movies. It integrates seamlessly with a third-party movie listing API to fetch and display movies, featuring functionalities like user registration, authentication, and collection management. Additionally, the application includes a custom middleware to count and reset the number of requests made to the server, ensuring scalability and monitoring capabilities.
