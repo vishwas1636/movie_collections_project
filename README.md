@@ -76,6 +76,8 @@ movie_project/
 ├── requirements.txt
 └── .env
 ```
+## Postman api screenshots
+
 ![Screenshot 2024-10-13 112853](https://github.com/user-attachments/assets/cf5bdc60-7862-4e73-b0c7-fa6880e75dfc)
 ![Screenshot 2024-10-13 114103](https://github.com/user-attachments/assets/96ddd1e4-c533-497b-95fc-502ef66074b6)
 ![Screenshot 2024-10-13 114112](https://github.com/user-attachments/assets/60b80600-6cbe-4840-8596-3e8bfd2ba2e2)
